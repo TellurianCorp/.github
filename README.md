@@ -10,6 +10,14 @@ Helping teams modernize their finance and infrastructure operations with practic
 | **Tellurian Web Admin** | React/TypeScript front-end that gives operators an intuitive way to manage clients, DNS zones, finance data, and more through TellurianBI. |
 | **Automation Tooling** | CLIs and scripts for provisioning credentials, configuring environments, and running diagnostics so engineers can focus on shipping features. |
 
+### Quick Links
+
+- [TellurianBI Repository](https://github.com/TellurianCorp/TellurianBI)
+- [TellurianWebAdmin Repository](https://github.com/TellurianCorp/TellurianWebAdmin)
+- [Engineering Blog](https://telluriancorp.com/blog) _(coming soon)_
+
+![Tellurian Platforms](https://user-images.githubusercontent.com/placeholder/tellurian-overview.png)
+
 ## Why Teams Choose Tellurian
 
 - **Security-first** – Role-aware JWT access, admin tokens, and consistent auditing.
